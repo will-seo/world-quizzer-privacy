@@ -27,4 +27,4 @@ The app does not use any advertising or analytics SDKs, does not track you acros
 
 ## Contact
 
-Questions about this policy or your data can be sent to: wtbarnes88@googlemail.com
+Questions about this policy or your data can be sent to: worldquizzeradmin@gmail.com
