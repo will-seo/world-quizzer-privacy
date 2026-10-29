@@ -22,7 +22,7 @@ If you allow notifications, the app schedules daily reminders on your device its
 
 ## Sharing your score
 
-When you tap "Share" after a Daily Quiz, the app opens the standard iOS share sheet with a short message: the quiz number, a row of coloured squares showing which answers were right, your streak and a link to the App Store. Nothing is sent unless you choose where to share it.
+When you tap "Share" after a Daily Quiz, the app opens the standard iOS share sheet with a short message: the date, a row of coloured squares showing which answers were right, and your streak. Nothing is sent unless you choose where to share it.
 
 ## Feedback form and question reports
 
