@@ -1,18 +1,19 @@
 # Privacy Policy for World Quizzer
 
-_Last updated: 2026-10-29_
+_Last updated: 2026-11-01_
 
 World Quizzer ("the app") is a geography quiz game. This policy explains what data the app handles.
 
 ## Data stored on your device
 
-The app saves the following locally on your device, using Apple's standard `UserDefaults` storage. This data never leaves your device unless you choose to send feedback or report a question (see below):
+The app saves the following locally on your device, using Apple's standard `UserDefaults` storage. Apart from the ad consent answer noted in the list, this data never leaves your device unless you choose to send feedback or report a question (see below):
 
 - Your quiz score history and best results, and any names you type for the leaderboards
 - A list of countries you've previously answered incorrectly ("Review Mistakes")
 - Your selected quiz category preferences and app settings (appearance, sounds, reminder time)
 - Any custom quizzes you've built
 - Your Daily Quiz progress: the days you've played and your scores, your streak, where you are on the journey, your passport and achievement stamps, and today's questions with your answers (so you can review them)
+- The latest copy of the app's ad settings, and, in the UK and European Economic Area, your answer on Google's ad consent form, which is passed to Google with ad requests so your choice is respected (see "Advertising" below)
 
 None of this data is linked to your identity, shared with the developer, or used for tracking. It can be cleared at any time by deleting the app.
 
@@ -32,9 +33,17 @@ If you report a problem with a question, the report also includes the details ne
 
 If you tap "Register interest" on an upcoming Pro feature, the app sends only that feature's name, which adds one anonymous vote to a tally. Nothing you type and nothing about you or your device is included.
 
-## No tracking, no third-party analytics, no ads
+## Advertising
 
-The app does not use any advertising or analytics SDKs, does not track you across other apps or websites, and does not share data with third parties for advertising purposes.
+The app shows a full-screen ad now and then when you finish a quiz round, and one after each Daily Quiz. Ads never appear in the middle of a quiz. The ads are provided by Google AdMob.
+
+The ads are **not personalised**: they aren't chosen using your activity in other apps or on websites, and the app doesn't ask to track you. To show and count the ads, and to prevent fraud, Google may collect limited information such as your device's IP address (which gives an approximate location), the device type and iOS version, and how you interact with an ad. The app doesn't send Google your quiz scores, names, or anything you type. Ads are limited to content suitable for general audiences. So the ads can be switched off or shown less often without an app update, the app also reads a small settings file from the developer's website (will-seo.github.io, hosted by GitHub) when it opens; nothing about you is sent with that request.
+
+If you're in the UK or the European Economic Area, Google's consent form asks for your choice before any ad is shown, and you can change it at any time in the app's Settings, under "Privacy choices for ads". You can read how Google uses information from apps that show its ads at https://policies.google.com/technologies/partner-sites.
+
+## No tracking, no analytics
+
+Apart from the ads described above, the app uses no third-party services: no analytics, and nothing that tracks you across other apps or websites.
 
 ## Contact
 
