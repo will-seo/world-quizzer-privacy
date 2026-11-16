@@ -1,6 +1,6 @@
 # Privacy Policy for World Quizzer
 
-_Last updated: 2026-11-13_
+_Last updated: 2026-11-16_
 
 World Quizzer ("the app") is a geography quiz game for iPhone, iPad and Android. This policy explains what data the app handles. It is the same on every platform; where the apps differ, this policy says so.
 
@@ -9,9 +9,10 @@ World Quizzer ("the app") is a geography quiz game for iPhone, iPad and Android.
 The app saves the following locally on your device, using the phone's standard app storage (`UserDefaults` on iPhone and iPad, `SharedPreferences` on Android). Apart from the ad consent answer noted in the list, this data never leaves your device unless you choose to send feedback or report a question (see below):
 
 - Your quiz score history and best results, and any names you type for the leaderboards
-- A list of countries you've previously answered incorrectly ("Review Mistakes")
+- Your review list ("Review mistakes"): the countries you've missed on the map, and the flags and capitals you've got wrong
 - Your selected quiz category preferences and app settings (appearance, sounds, reminder time)
 - Any custom quizzes you've built
+- Your hangar choices: the vehicles, paint colour and flag or sticker you picked for the journey
 - Your Daily Quiz progress: the days you've played and your scores, your streak (including any missed day you brought back with the streak saver, see "Advertising"), where you are on the journey, your passport and achievement stamps, and today's questions with your answers (so you can review them)
 - The latest copy of the app's ad settings, and, in the UK and European Economic Area, your answer on Google's ad consent form, which is passed to Google with ad requests so your choice is respected (see "Advertising" below)
 
@@ -31,13 +32,15 @@ If you choose to submit feedback through the in-app feedback form, the text you 
 
 If you report a problem with a question, the report also includes the details needed to look into it: the quiz and question (for a map quiz, also the one just before it, since a report is often sent just as the next question appears), the answers shown and the one you picked (or, on a map, the places you tapped), the app's facts for that country or state, the app version, your iOS or Android version and device type (for example "iPhone"), and the time it was sent. It never includes your name, email, device identifiers or location.
 
+If you report a problem with a place in the Explorer (a wrong fact, flag or pronunciation), the report includes which place it was, the facts and flag the app shows for it, whether its name has a recorded voice, and the same app version, system and time details as a question report. Again, nothing about you or your device beyond that.
+
 If you tap "Register interest" on an upcoming Pro feature, the app sends only that feature's name, which adds one anonymous vote to a tally. Nothing you type and nothing about you or your device is included.
 
 ## Advertising
 
 The ads are provided by Google AdMob. The app shows:
 
-- A small banner under the question in multiple-choice quizzes (Capitals, Flags, US States, Pub Quiz and the Daily Quiz). There are no ads on the map quizzes, the menus or the results.
+- A small banner under the question in multiple-choice quizzes (Capitals, Flags, US States, Pub Quiz, Review mistakes and the Daily Quiz). There are no ads on the map quizzes, the menus or the results.
 - A full-screen ad now and then when you finish a quiz round, and after a Daily Quiz: one after the last answer and one before the flight to the next stop.
 - The streak saver: if you miss one day of the Daily Quiz, the app offers to bring your streak back if you choose to watch a short video ad. This is entirely optional. If no video is available, it shows an ordinary ad instead, or restores the streak with no ad at all when there's no connection.
 
@@ -45,9 +48,19 @@ The ads are **not personalised**: they aren't chosen using your activity in othe
 
 If you're in the UK or the European Economic Area, Google's consent form asks for your choice before any ad is shown, and you can change it at any time in the app's Settings, under "Privacy choices for ads". You can read how Google uses information from apps that show its ads at https://policies.google.com/technologies/partner-sites.
 
-## No tracking, no analytics
+## Anonymous usage counts
 
-Apart from the ads described above, the app uses no third-party services: no analytics, and nothing that tracks you across other apps or websites.
+To learn which quizzes people play, the iPhone and iPad app sends a few anonymous counts to TelemetryDeck (TelemetryDeck GmbH, Germany), a privacy-focused analytics service:
+
+- when a quiz round is finished: which quiz it was (for example "Flags, Europe") and the score;
+- when a Daily Quiz is finished: the score;
+- when a streak is saved: whether by a video, another ad, or for free.
+
+Each count also says which version of the app it came from. The Android app doesn't send these counts. Nothing else is sent: no name, no account, no advertising ID, no device details and no location. There is no ID that stays with your device. The app makes up a new random one each time it starts, so counts from different days can't be linked to the same person or phone. You can turn this off in Settings, under "Share anonymous usage counts".
+
+## No tracking
+
+Apart from the ads and (on iPhone and iPad) the anonymous counts described above, the app uses no third-party services, and nothing tracks you across other apps or websites.
 
 ## Contact
 
