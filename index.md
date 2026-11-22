@@ -1,6 +1,6 @@
 # Privacy Policy for World Quizzer
 
-_Last updated: 2026-11-16_
+_Last updated: 2026-11-22_
 
 World Quizzer ("the app") is a geography quiz game for iPhone, iPad and Android. This policy explains what data the app handles. It is the same on every platform; where the apps differ, this policy says so.
 
@@ -9,8 +9,8 @@ World Quizzer ("the app") is a geography quiz game for iPhone, iPad and Android.
 The app saves the following locally on your device, using the phone's standard app storage (`UserDefaults` on iPhone and iPad, `SharedPreferences` on Android). Apart from the ad consent answer noted in the list, this data never leaves your device unless you choose to send feedback or report a question (see below):
 
 - Your quiz score history and best results, and any names you type for the leaderboards
-- Your review list ("Review mistakes"): the countries you've missed on the map, and the flags and capitals you've got wrong
-- Your selected quiz category preferences and app settings (appearance, sounds, reminder time)
+- Your review list ("Review mistakes"): the countries, US states and UK counties you've missed on the map, and the flags and capitals you've got wrong, in any quiz
+- Your selected quiz category preferences and app settings (appearance, sounds, voice, mute, reminder time)
 - Any custom quizzes you've built
 - Your hangar choices: the vehicles, paint colour and flag or sticker you picked for the journey
 - Your Daily Quiz progress: the days you've played and your scores, your streak (including any missed day you brought back with the streak saver, see "Advertising"), where you are on the journey, your passport and achievement stamps, and today's questions with your answers (so you can review them)
