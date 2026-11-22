@@ -50,17 +50,17 @@ If you're in the UK or the European Economic Area, Google's consent form asks fo
 
 ## Anonymous usage counts
 
-To learn which quizzes people play, the iPhone and iPad app sends a few anonymous counts to TelemetryDeck (TelemetryDeck GmbH, Germany), a privacy-focused analytics service:
+To learn which quizzes people play, the app sends a few anonymous counts to TelemetryDeck (TelemetryDeck GmbH, Germany), a privacy-focused analytics service:
 
 - when a quiz round is finished: which quiz it was (for example "Flags, Europe") and the score;
 - when a Daily Quiz is finished: the score;
 - when a streak is saved: whether by a video, another ad, or for free.
 
-Each count also says which version of the app it came from. The Android app doesn't send these counts. Nothing else is sent: no name, no account, no advertising ID, no device details and no location. There is no ID that stays with your device. The app makes up a new random one each time it starts, so counts from different days can't be linked to the same person or phone. You can turn this off in Settings, under "Share anonymous usage counts".
+Each count also says which version of the app it came from, and whether it was the iPhone and iPad app or the Android app. Nothing else is sent: no name, no account, no advertising ID, no device details and no location. There is no ID that stays with your device. The app makes up a new random one each time it starts, so counts from different days can't be linked to the same person or phone. You can turn this off in Settings, under "Share anonymous usage counts".
 
 ## No tracking
 
-Apart from the ads and (on iPhone and iPad) the anonymous counts described above, the app uses no third-party services, and nothing tracks you across other apps or websites.
+Apart from the ads and the anonymous counts described above, the app uses no third-party services, and nothing tracks you across other apps or websites.
 
 ## Contact
 
