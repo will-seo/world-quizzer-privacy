@@ -45,7 +45,7 @@ If you tap "Register interest" on an upcoming Pro feature, the app sends only th
 The ads are provided by Google AdMob. The app shows:
 
 - A small banner under the question in multiple-choice quizzes (Capitals, Flags, US States, Pub Quiz, Review mistakes and the Daily Quiz). There are no ads on the map quizzes, the menus or the results.
-- A full-screen ad now and then when you finish a quiz round, and after a Daily Quiz: one after the last answer and one before the flight to the next stop.
+- A full-screen ad now and then when you finish a quiz round, never within three minutes of the last one. The Daily Quiz shows only its banner, with no full-screen ads.
 - The streak saver: if you miss one day of the Daily Quiz, the app offers to bring your streak back if you choose to watch a short video ad. This is entirely optional. If no video is available, it shows an ordinary ad instead, or restores the streak with no ad at all when there's no connection.
 
 The ads are **not personalised**: they aren't chosen using your activity in other apps or on websites, and the app doesn't ask to track you. To show and count the ads, and to prevent fraud, Google may collect limited information such as your device's IP address (which gives an approximate location), the device type and operating system version, the advertising identifier on Android, and how you interact with an ad. The app doesn't send Google your quiz scores, names, or anything you type. Ads are limited to content suitable for general audiences. So the ads can be switched off or shown less often without an app update, the app also reads a small settings file from the developer's website (will-seo.github.io, hosted by GitHub) when it opens; nothing about you is sent with that request.
