@@ -1,6 +1,6 @@
 # Privacy Policy for World Quizzer
 
-_Last updated: 2026-11-22_
+_Last updated: 2026-11-26_
 
 World Quizzer ("the app") is a geography quiz game for iPhone, iPad and Android. This policy explains what data the app handles. It is the same on every platform; where the apps differ, this policy says so.
 
@@ -22,9 +22,13 @@ None of this data is linked to your identity, shared with the developer, or used
 
 If you allow notifications, the app schedules daily reminders on your device itself (local notifications). Nothing is sent to a server to do this, and you can turn reminders off in the app's Settings or in your phone's Settings at any time.
 
-## Sharing your score
+## Sharing
 
-When you tap "Share" after a Daily Quiz, the app opens your phone's standard share sheet with a short message: the date, a row of coloured squares showing which answers were right, and your streak. Nothing is sent unless you choose where to share it.
+When you tap "Share" after a Daily Quiz, the app opens your phone's standard share sheet with a short message: the date, a row of coloured squares showing which answers were right, and your streak. When you tap "Share this app" on the home screen, it opens the same share sheet with a one-line message and a link to the app's download page. Nothing is sent unless you choose where to share it.
+
+## Rating the app
+
+Now and then, after a quiz, the app asks your phone to show the App Store's or Google Play's own "rate this app" box. The app never sees whether you rate it or what you write: that is handled by Apple or Google under their own privacy policies.
 
 ## Feedback form and question reports
 
